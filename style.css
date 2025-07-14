@@ -93,3 +93,97 @@ body {
     height: 500px;
     margin-bottom: 120px;
 }
+
+
+/* welcome section */
+.welcome-text{
+    margin-top: 33px;
+    position: relative;
+    padding: 126px 0 143px 126px;
+    align-items: center;
+    /* margin-bottom: 0px; */
+}
+.welcome-text-one{
+    font-size: 64px;
+    font-weight: 600;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #FFFFFF;
+}
+
+.welcome-text-two{
+    font-size: 18px;
+    color: #FFFFFF;
+    font-weight: 300;
+    margin-top: 24px;
+}
+
+.welcome-paragraph {
+font-size: 20px;
+color: #FFFFFF;
+font-weight: bold;
+margin-top: 47px ;
+margin-bottom: 0px;
+}
+
+
+.welcome-gradient{
+    background-image: linear-gradient(to left, rgba(7, 2, 17, 0), rgba(7, 2, 17, 1));
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    position: absolute; 
+}
+
+.welcome-image{
+    position: absolute;
+}
+
+
+.welcome-elements{
+    display: flex;
+    gap: 40px;
+}
+
+.welcome-section{
+    margin-bottom: 120px;
+}
+
+
+/* New Park Hotel section */
+
+.paragraph p{
+    font-size: 32px;
+    text-align: center;
+    font-weight:500;
+
+}
+.paragraph span{
+    color: #FF0000;
+}
+
+.new-park-hotel button{
+    background-color: #FF0000;
+    padding: 16px 32px;
+    color: #FFFFFF;
+    border: 0;
+    font-size: 20px;
+    border-radius: 8px;
+    
+}
+
+.paragraph{
+    width: 1320px;
+    height: 600px;
+    position: absolute;
+    
+}
+.new-park-hotel .box{
+        background-image: linear-gradient(to top, rgba(255, 0, 0, 0), rgba(252, 199, 199, 0.973));
+    width: 1320px;
+    height: 482px;
+    border-radius: 16px;
+    /* margin-bottom: 120px; */
+    
+}
+
